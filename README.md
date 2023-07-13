@@ -1,8 +1,11 @@
 # INSTALAÇÃO O-RAN SC Near-RT RIC
 # Requisitos:
 Memoria: 12-16gB RAM
+
 CPU: 2-4 vCPUs
+
 Armazenamento: 50-120gB
+
 OS: Ubuntu 20.04
 
 ## Atualizar Bibliotecas
