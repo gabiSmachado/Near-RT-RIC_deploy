@@ -1,6 +1,6 @@
 # INSTALAÇÃO O-RAN SC Near-RT RIC
 # Requisitos:
-Memoria: 12-16gB RAM
+Memória: 12-16gB RAM
 
 CPU: 2-4 vCPUs
 
